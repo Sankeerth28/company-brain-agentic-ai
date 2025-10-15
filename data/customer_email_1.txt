@@ -1,0 +1,19 @@
+From: alice@example.com
+Subject: Repeated crash when exporting reports
+
+Hi team,
+
+We've been experiencing a recurring crash whenever we export quarterly reports as CSV. It happens on rows with many embedded comments — the export fails with an "OutOfMemory" error and the application forces a restart. Our analytics team needs reliable exports for Friday reporting and this has blocked us twice this month.
+
+Environment: Windows 10, app v2.14.3
+Steps to reproduce:
+1. Open report "Sales Q3"
+2. Click Export -> CSV
+3. Wait ~10-15 seconds, app crashes
+
+Impact: We've missed two internal deadlines and analysts are doing manual workarounds.
+
+Please advise on a fix or a temporary workaround.
+
+Thanks,
+Alice

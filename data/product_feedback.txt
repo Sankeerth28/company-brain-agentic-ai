@@ -1,0 +1,5 @@
+Feedback digest from sales calls (Q3 2025)
+
+- Several customers asked for a "dry run" preview of export files before actual export.
+- Multiple requests for clearer billing tier descriptions on the subscription page.
+- Requests to expose API rate-limit metrics per customer so engineering can prioritize performance work.

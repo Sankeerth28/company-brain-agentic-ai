@@ -1,0 +1,7 @@
+streamlit>=1.25.0
+sentence-transformers>=2.2.2
+numpy>=1.24.0
+scikit-learn>=1.2.0
+pypdf>=3.11.0
+python-dotenv>=1.0.0
+openai>=0.27.0

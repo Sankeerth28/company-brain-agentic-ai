@@ -1,0 +1,5 @@
+user_id,month,reason,sentiment,details
+U100,2025-08,Price,negative,Too expensive compared to alternatives
+U101,2025-08,Missing features,negative,Need native integration with X tool
+U102,2025-09,Onboarding friction,neutral,Initial setup took too long
+U103,2025-09,Price,negative,Unexpected billing tier change

@@ -1,0 +1,11 @@
+From: bob@startupco.com
+Subject: Confusing billing charges
+
+Hello,
+
+I noticed unexpected charges on our account for the last two months. The invoice line items list "Data Processing - Tier B" which we never selected. The billing page doesn't explain what Tier B entails and there's no clear way to downgrade to Tier A.
+
+Can someone clarify what triggered the move to Tier B and reverse the charges if it was an error?
+
+Regards,
+Bob

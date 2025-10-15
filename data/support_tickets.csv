@@ -1,0 +1,6 @@
+ticket_id,date,customer,issue,priority,status
+TKT-1001,2025-07-12,alpha_corp,Export crash on CSV with comments,High,Open
+TKT-1010,2025-07-18,beta_inc,Billing: unexpected tier upgrade,Medium,Investigating
+TKT-1023,2025-08-02,gamma_llc,API timeout during bulk upload,High,Open
+TKT-1030,2025-08-15,delta_co,Login delay >10s for SSO users,Low,Closed
+TKT-1042,2025-09-01,epsilon,Duplicate notifications sent to users,Medium,Open

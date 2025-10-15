@@ -1,0 +1,10 @@
+# .gitignore
+venv/
+__pycache__/
+db/
+.env
+*.pyc
+.DS_Store
+*.pkl
+*.npy
+*.json

@@ -1,0 +1,6 @@
+Sales notes - September 2025
+
+Call with: Omega Solutions
+Decision driver: Reliability and predictable cost
+Concerns: Recent reports of export instability; need SLA mention for exports
+Win theme: If we can guarantee or transparently communicate export behavior, they'd be willing to pilot enterprise plan.
